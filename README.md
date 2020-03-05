@@ -1,7 +1,5 @@
 # GoogleMapsAPI Example
 
-NewsAPP using the API. This project uses Retrofit2 as HTTP Clent.
-
 • Find device location
 
 • Mark device location
