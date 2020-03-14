@@ -199,8 +199,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap = googleMap;
 
         try {
-            // Customise the styling of the base map using a JSON object defined
-            // in a raw resource file.
+            //Customise the styling of the base map using a JSON object defined
+            //in a raw resource file.
             boolean success = googleMap.setMapStyle(
                     MapStyleOptions.loadRawResourceStyle(
                             this, R.raw.mapstyle));
